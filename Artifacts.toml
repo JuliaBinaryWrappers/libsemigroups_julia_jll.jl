@@ -1,0 +1,514 @@
+[[libsemigroups_julia]]
+arch = "aarch64"
+git-tree-sha1 = "1b2915ece8099e9ff2de17379b693b7180a69610"
+julia_version = "1.10.0"
+os = "macos"
+
+    [[libsemigroups_julia.download]]
+    sha256 = "4d14108b700db038b9e35a4a5e30faa83a6902d25ff4236c600fbb725e896b8d"
+    url = "https://github.com/JuliaBinaryWrappers/libsemigroups_julia_jll.jl/releases/download/libsemigroups_julia-v0.0.1+0/libsemigroups_julia.v0.0.1.aarch64-apple-darwin-julia_version+1.10.0.tar.gz"
+[[libsemigroups_julia]]
+arch = "aarch64"
+git-tree-sha1 = "c199b42c8d3a1e88f92ef003f3ff33250a3b43c0"
+julia_version = "1.11.1"
+os = "macos"
+
+    [[libsemigroups_julia.download]]
+    sha256 = "5cd2503696658e5b58be156ccdef0b1abc975d36f08c656ef34d831b607b13bf"
+    url = "https://github.com/JuliaBinaryWrappers/libsemigroups_julia_jll.jl/releases/download/libsemigroups_julia-v0.0.1+0/libsemigroups_julia.v0.0.1.aarch64-apple-darwin-julia_version+1.11.1.tar.gz"
+[[libsemigroups_julia]]
+arch = "aarch64"
+git-tree-sha1 = "886d9b18422e72b1fb46e7326074925efd7fa11f"
+julia_version = "1.12.0"
+os = "macos"
+
+    [[libsemigroups_julia.download]]
+    sha256 = "88133d6316cad8cf15ff03278d2953576fafdf5648886536e1d5cdb5e1da928b"
+    url = "https://github.com/JuliaBinaryWrappers/libsemigroups_julia_jll.jl/releases/download/libsemigroups_julia-v0.0.1+0/libsemigroups_julia.v0.0.1.aarch64-apple-darwin-julia_version+1.12.0.tar.gz"
+[[libsemigroups_julia]]
+arch = "aarch64"
+git-tree-sha1 = "6ad1ddf2854294317b19cda5e57bff31dcc17f6e"
+julia_version = "1.13.0"
+os = "macos"
+
+    [[libsemigroups_julia.download]]
+    sha256 = "c494f51c67ff6dac43da0dd61de0031b5931cdb5eb44a1365240add7a26ce50f"
+    url = "https://github.com/JuliaBinaryWrappers/libsemigroups_julia_jll.jl/releases/download/libsemigroups_julia-v0.0.1+0/libsemigroups_julia.v0.0.1.aarch64-apple-darwin-julia_version+1.13.0.tar.gz"
+[[libsemigroups_julia]]
+arch = "aarch64"
+git-tree-sha1 = "0571f32c420f6e65a5d897b026ae04884772cf8d"
+julia_version = "1.14.0"
+os = "macos"
+
+    [[libsemigroups_julia.download]]
+    sha256 = "f0dbebc7837a08b0852b33fd2c80fd79918a0601911eb0cd4702e23b4fe7e40e"
+    url = "https://github.com/JuliaBinaryWrappers/libsemigroups_julia_jll.jl/releases/download/libsemigroups_julia-v0.0.1+0/libsemigroups_julia.v0.0.1.aarch64-apple-darwin-julia_version+1.14.0.tar.gz"
+[[libsemigroups_julia]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "5b02f4de4790cb086650c9a37fafad2f93aae2a0"
+julia_version = "1.10.0"
+libc = "glibc"
+os = "linux"
+
+    [[libsemigroups_julia.download]]
+    sha256 = "16cf5a971a4352dd38d647c17b7dc47ad173ed49562e5d571558b2287eb5373c"
+    url = "https://github.com/JuliaBinaryWrappers/libsemigroups_julia_jll.jl/releases/download/libsemigroups_julia-v0.0.1+0/libsemigroups_julia.v0.0.1.aarch64-linux-gnu-cxx11-julia_version+1.10.0.tar.gz"
+[[libsemigroups_julia]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "ad858c2f8b695769945709f725e3e11cdef95e88"
+julia_version = "1.11.1"
+libc = "glibc"
+os = "linux"
+
+    [[libsemigroups_julia.download]]
+    sha256 = "8c8c93174197a3befa9b421524cdafc7e5fdf7e7e02b0cb8140541c145e4dc6a"
+    url = "https://github.com/JuliaBinaryWrappers/libsemigroups_julia_jll.jl/releases/download/libsemigroups_julia-v0.0.1+0/libsemigroups_julia.v0.0.1.aarch64-linux-gnu-cxx11-julia_version+1.11.1.tar.gz"
+[[libsemigroups_julia]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "3ba1d32450d14759f574f4b50ffe685e1978d1b7"
+julia_version = "1.12.0"
+libc = "glibc"
+os = "linux"
+
+    [[libsemigroups_julia.download]]
+    sha256 = "7f1e349cfab3fef5c83f8a7d0a332aaab71a21b7c8a866dbaff55f26d0c1a00e"
+    url = "https://github.com/JuliaBinaryWrappers/libsemigroups_julia_jll.jl/releases/download/libsemigroups_julia-v0.0.1+0/libsemigroups_julia.v0.0.1.aarch64-linux-gnu-cxx11-julia_version+1.12.0.tar.gz"
+[[libsemigroups_julia]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "80e962330197779e76c97c0f45dcf456d8dd0dd8"
+julia_version = "1.13.0"
+libc = "glibc"
+os = "linux"
+
+    [[libsemigroups_julia.download]]
+    sha256 = "94e9fca4f8ce33f83dca219be2b9167a61ec696799d4fe7fdb6243d300f293c2"
+    url = "https://github.com/JuliaBinaryWrappers/libsemigroups_julia_jll.jl/releases/download/libsemigroups_julia-v0.0.1+0/libsemigroups_julia.v0.0.1.aarch64-linux-gnu-cxx11-julia_version+1.13.0.tar.gz"
+[[libsemigroups_julia]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "34b2696b4fddddb86ac00df8f65e358c47457a2a"
+julia_version = "1.14.0"
+libc = "glibc"
+os = "linux"
+
+    [[libsemigroups_julia.download]]
+    sha256 = "ea33cff27092d505c9ddef54a2b35ad18a61db1f53d337763c25d1ff8ac8cf17"
+    url = "https://github.com/JuliaBinaryWrappers/libsemigroups_julia_jll.jl/releases/download/libsemigroups_julia-v0.0.1+0/libsemigroups_julia.v0.0.1.aarch64-linux-gnu-cxx11-julia_version+1.14.0.tar.gz"
+[[libsemigroups_julia]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "aad5e6701a64d691fdcbdbd8694e507e944941ec"
+julia_version = "1.10.0"
+libc = "musl"
+os = "linux"
+
+    [[libsemigroups_julia.download]]
+    sha256 = "afb8c637853e8a812f7d8b344c86c5f90f6776f02b3eeab380f9ba96a02cc32c"
+    url = "https://github.com/JuliaBinaryWrappers/libsemigroups_julia_jll.jl/releases/download/libsemigroups_julia-v0.0.1+0/libsemigroups_julia.v0.0.1.aarch64-linux-musl-cxx11-julia_version+1.10.0.tar.gz"
+[[libsemigroups_julia]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "3a28d314cc296cb14be557511297ece0a366c43c"
+julia_version = "1.11.1"
+libc = "musl"
+os = "linux"
+
+    [[libsemigroups_julia.download]]
+    sha256 = "dd7ab7618b75ac754908dfeffcab3ae48656ed6ed8c0da4fba44be9387938722"
+    url = "https://github.com/JuliaBinaryWrappers/libsemigroups_julia_jll.jl/releases/download/libsemigroups_julia-v0.0.1+0/libsemigroups_julia.v0.0.1.aarch64-linux-musl-cxx11-julia_version+1.11.1.tar.gz"
+[[libsemigroups_julia]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "176963f579bb9bf206cccc3b4b0a8159cc396358"
+julia_version = "1.12.0"
+libc = "musl"
+os = "linux"
+
+    [[libsemigroups_julia.download]]
+    sha256 = "631a85359132a1fa5a97504a9411e8d54b05fddebd5c3474db1b2cc182d5ac09"
+    url = "https://github.com/JuliaBinaryWrappers/libsemigroups_julia_jll.jl/releases/download/libsemigroups_julia-v0.0.1+0/libsemigroups_julia.v0.0.1.aarch64-linux-musl-cxx11-julia_version+1.12.0.tar.gz"
+[[libsemigroups_julia]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "0a7d64268771858e8747cfb404eb748ed39c5052"
+julia_version = "1.13.0"
+libc = "musl"
+os = "linux"
+
+    [[libsemigroups_julia.download]]
+    sha256 = "999f94bf5697301d697c760fcaf6994284773cdae153114035a908c99b2fd5fb"
+    url = "https://github.com/JuliaBinaryWrappers/libsemigroups_julia_jll.jl/releases/download/libsemigroups_julia-v0.0.1+0/libsemigroups_julia.v0.0.1.aarch64-linux-musl-cxx11-julia_version+1.13.0.tar.gz"
+[[libsemigroups_julia]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "fe1761708b29ddc2d9d7fd69999fbc4f67008d92"
+julia_version = "1.14.0"
+libc = "musl"
+os = "linux"
+
+    [[libsemigroups_julia.download]]
+    sha256 = "367568290f5ba523d63bba50bd77f4704d36dfdd49d9c821be6147f2bbb623d3"
+    url = "https://github.com/JuliaBinaryWrappers/libsemigroups_julia_jll.jl/releases/download/libsemigroups_julia-v0.0.1+0/libsemigroups_julia.v0.0.1.aarch64-linux-musl-cxx11-julia_version+1.14.0.tar.gz"
+[[libsemigroups_julia]]
+arch = "aarch64"
+git-tree-sha1 = "8dbb9be5893bf114b30a1099c4ec402ba1a530ab"
+julia_version = "1.12.0"
+os = "freebsd"
+
+    [[libsemigroups_julia.download]]
+    sha256 = "8e77f9519b3a7a1299a0aadbcaf5088f40b9853000dd3717e4b4bbb2e67aeb95"
+    url = "https://github.com/JuliaBinaryWrappers/libsemigroups_julia_jll.jl/releases/download/libsemigroups_julia-v0.0.1+0/libsemigroups_julia.v0.0.1.aarch64-unknown-freebsd-julia_version+1.12.0.tar.gz"
+[[libsemigroups_julia]]
+arch = "aarch64"
+git-tree-sha1 = "b956e0aff874406d50c2686ee835ec37c0b3577a"
+julia_version = "1.13.0"
+os = "freebsd"
+
+    [[libsemigroups_julia.download]]
+    sha256 = "4950f9dc8cacbac94d9cd004f9ca6f6b77e6eb62230eb9d5f86ca0f0e7e370bd"
+    url = "https://github.com/JuliaBinaryWrappers/libsemigroups_julia_jll.jl/releases/download/libsemigroups_julia-v0.0.1+0/libsemigroups_julia.v0.0.1.aarch64-unknown-freebsd-julia_version+1.13.0.tar.gz"
+[[libsemigroups_julia]]
+arch = "aarch64"
+git-tree-sha1 = "c162aa85d0ec33c0623a441cdbdc96b7218b1681"
+julia_version = "1.14.0"
+os = "freebsd"
+
+    [[libsemigroups_julia.download]]
+    sha256 = "03711fc17b608657d391522cf2889f8b6294ac5e17d4d613cd51cd61402474de"
+    url = "https://github.com/JuliaBinaryWrappers/libsemigroups_julia_jll.jl/releases/download/libsemigroups_julia-v0.0.1+0/libsemigroups_julia.v0.0.1.aarch64-unknown-freebsd-julia_version+1.14.0.tar.gz"
+[[libsemigroups_julia]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "def5eeeeca63a3d3fe568e77353cb9765f305ff0"
+julia_version = "1.10.0"
+libc = "glibc"
+os = "linux"
+
+    [[libsemigroups_julia.download]]
+    sha256 = "fda7d692f96ef2cd992c2bbc7ccd134295a657477347329efec9681d1d321abf"
+    url = "https://github.com/JuliaBinaryWrappers/libsemigroups_julia_jll.jl/releases/download/libsemigroups_julia-v0.0.1+0/libsemigroups_julia.v0.0.1.i686-linux-gnu-cxx11-julia_version+1.10.0.tar.gz"
+[[libsemigroups_julia]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "c2c623852b637910161260067d5f9c26e309f3c5"
+julia_version = "1.11.1"
+libc = "glibc"
+os = "linux"
+
+    [[libsemigroups_julia.download]]
+    sha256 = "fd14640fd52dfc05b9b3bd5bd66975e5d40c9b7694b40523c475a90c5e34c5ce"
+    url = "https://github.com/JuliaBinaryWrappers/libsemigroups_julia_jll.jl/releases/download/libsemigroups_julia-v0.0.1+0/libsemigroups_julia.v0.0.1.i686-linux-gnu-cxx11-julia_version+1.11.1.tar.gz"
+[[libsemigroups_julia]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "a34639a400cb569dcae53651575a6d5ffd2043e9"
+julia_version = "1.12.0"
+libc = "glibc"
+os = "linux"
+
+    [[libsemigroups_julia.download]]
+    sha256 = "cb4b8f0f7ea72d6d4e5733a70eb2f4402a0fa5d0c428a6b84e7d14e555a86b39"
+    url = "https://github.com/JuliaBinaryWrappers/libsemigroups_julia_jll.jl/releases/download/libsemigroups_julia-v0.0.1+0/libsemigroups_julia.v0.0.1.i686-linux-gnu-cxx11-julia_version+1.12.0.tar.gz"
+[[libsemigroups_julia]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "44b4dcf5a739bced03b30f2d2d078f6e004819f1"
+julia_version = "1.13.0"
+libc = "glibc"
+os = "linux"
+
+    [[libsemigroups_julia.download]]
+    sha256 = "3d7e97760467d75489e98e848582361d0f20f4c46070a98d30a9ea896c2b0dbc"
+    url = "https://github.com/JuliaBinaryWrappers/libsemigroups_julia_jll.jl/releases/download/libsemigroups_julia-v0.0.1+0/libsemigroups_julia.v0.0.1.i686-linux-gnu-cxx11-julia_version+1.13.0.tar.gz"
+[[libsemigroups_julia]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "3646f19b3b341475bc686f2582251b132ced1fa5"
+julia_version = "1.14.0"
+libc = "glibc"
+os = "linux"
+
+    [[libsemigroups_julia.download]]
+    sha256 = "363354ce15bbfd860fa2963a6d0ad80d2aadbf0367a6c35e19b146c4c7e72999"
+    url = "https://github.com/JuliaBinaryWrappers/libsemigroups_julia_jll.jl/releases/download/libsemigroups_julia-v0.0.1+0/libsemigroups_julia.v0.0.1.i686-linux-gnu-cxx11-julia_version+1.14.0.tar.gz"
+[[libsemigroups_julia]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "25607eb8adcadeff8780fd4df1307250740fd128"
+julia_version = "1.10.0"
+libc = "glibc"
+os = "linux"
+
+    [[libsemigroups_julia.download]]
+    sha256 = "5b037050f6647b1e649c65685ddfe2a4e0fe5ff08ff0ac3f5c2f41616211b1dc"
+    url = "https://github.com/JuliaBinaryWrappers/libsemigroups_julia_jll.jl/releases/download/libsemigroups_julia-v0.0.1+0/libsemigroups_julia.v0.0.1.powerpc64le-linux-gnu-cxx11-julia_version+1.10.0.tar.gz"
+[[libsemigroups_julia]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "89a431af3056c60045bfb0a0f33d0fc7fe8cdcca"
+julia_version = "1.11.1"
+libc = "glibc"
+os = "linux"
+
+    [[libsemigroups_julia.download]]
+    sha256 = "f6cf879f2094300c84c01cb0a5a43f413986703ea7839bc60e1909086b833f6c"
+    url = "https://github.com/JuliaBinaryWrappers/libsemigroups_julia_jll.jl/releases/download/libsemigroups_julia-v0.0.1+0/libsemigroups_julia.v0.0.1.powerpc64le-linux-gnu-cxx11-julia_version+1.11.1.tar.gz"
+[[libsemigroups_julia]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "0af9bba6fce70d6216674e41c921c135f6cd94ac"
+julia_version = "1.12.0"
+libc = "glibc"
+os = "linux"
+
+    [[libsemigroups_julia.download]]
+    sha256 = "3905b7f17571e3242737f1331c8e4f503013df5bd898b1cb02c092342e20e5a1"
+    url = "https://github.com/JuliaBinaryWrappers/libsemigroups_julia_jll.jl/releases/download/libsemigroups_julia-v0.0.1+0/libsemigroups_julia.v0.0.1.powerpc64le-linux-gnu-cxx11-julia_version+1.12.0.tar.gz"
+[[libsemigroups_julia]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "0e59637eddf2801140e6c68fb0750d02aa89d47a"
+julia_version = "1.13.0"
+libc = "glibc"
+os = "linux"
+
+    [[libsemigroups_julia.download]]
+    sha256 = "5b3701abbe693695799966243f326f3e0dcfed73f71ee3a10032c9b561127dd7"
+    url = "https://github.com/JuliaBinaryWrappers/libsemigroups_julia_jll.jl/releases/download/libsemigroups_julia-v0.0.1+0/libsemigroups_julia.v0.0.1.powerpc64le-linux-gnu-cxx11-julia_version+1.13.0.tar.gz"
+[[libsemigroups_julia]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "982567e59800a6e1eb7ccdd5d2872d4c87b0e973"
+julia_version = "1.14.0"
+libc = "glibc"
+os = "linux"
+
+    [[libsemigroups_julia.download]]
+    sha256 = "4c105073b06fadc0121fd2e83e30809b6d7515674bc0df6f8202cb6bad16100a"
+    url = "https://github.com/JuliaBinaryWrappers/libsemigroups_julia_jll.jl/releases/download/libsemigroups_julia-v0.0.1+0/libsemigroups_julia.v0.0.1.powerpc64le-linux-gnu-cxx11-julia_version+1.14.0.tar.gz"
+[[libsemigroups_julia]]
+arch = "riscv64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "04ae496e77e3c7bdabdd750378e1fad96e456296"
+julia_version = "1.13.0"
+libc = "glibc"
+os = "linux"
+
+    [[libsemigroups_julia.download]]
+    sha256 = "723ff7860db4cdc688725154e178e63ceb4dad7e41d5d1f7ebff4c1f32b39a77"
+    url = "https://github.com/JuliaBinaryWrappers/libsemigroups_julia_jll.jl/releases/download/libsemigroups_julia-v0.0.1+0/libsemigroups_julia.v0.0.1.riscv64-linux-gnu-cxx11-julia_version+1.13.0.tar.gz"
+[[libsemigroups_julia]]
+arch = "riscv64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "6091e732dde89aac402a85d0a25f3deb0dd9968b"
+julia_version = "1.14.0"
+libc = "glibc"
+os = "linux"
+
+    [[libsemigroups_julia.download]]
+    sha256 = "aa235bb8421a2a97cbad3d2bfa204b74a8a2b4e281e0b3ba2fa212c42c99f51f"
+    url = "https://github.com/JuliaBinaryWrappers/libsemigroups_julia_jll.jl/releases/download/libsemigroups_julia-v0.0.1+0/libsemigroups_julia.v0.0.1.riscv64-linux-gnu-cxx11-julia_version+1.14.0.tar.gz"
+[[libsemigroups_julia]]
+arch = "x86_64"
+git-tree-sha1 = "682a33ef143cb1c7eb0efd348674968e148d001b"
+julia_version = "1.10.0"
+os = "macos"
+
+    [[libsemigroups_julia.download]]
+    sha256 = "f23c3bdd2327cf6ca5a9e56965f0ba4fca05e524a9c2a30a8bbc30fcb133199a"
+    url = "https://github.com/JuliaBinaryWrappers/libsemigroups_julia_jll.jl/releases/download/libsemigroups_julia-v0.0.1+0/libsemigroups_julia.v0.0.1.x86_64-apple-darwin-julia_version+1.10.0.tar.gz"
+[[libsemigroups_julia]]
+arch = "x86_64"
+git-tree-sha1 = "f39da7517a611efbca104e5ac08e40a08ec4ab44"
+julia_version = "1.11.1"
+os = "macos"
+
+    [[libsemigroups_julia.download]]
+    sha256 = "e2cc506bcbbbab61cea50d3dcd0fca75725b571c96177d9fc5c7d97228c7cc9e"
+    url = "https://github.com/JuliaBinaryWrappers/libsemigroups_julia_jll.jl/releases/download/libsemigroups_julia-v0.0.1+0/libsemigroups_julia.v0.0.1.x86_64-apple-darwin-julia_version+1.11.1.tar.gz"
+[[libsemigroups_julia]]
+arch = "x86_64"
+git-tree-sha1 = "9984cc6c870c92994a5bfaecc1ee54b02f6ed713"
+julia_version = "1.12.0"
+os = "macos"
+
+    [[libsemigroups_julia.download]]
+    sha256 = "bfa04882336ef95e7b67d0de000c8d52901030cbdea56a3bcbc0a0b38fca3c7c"
+    url = "https://github.com/JuliaBinaryWrappers/libsemigroups_julia_jll.jl/releases/download/libsemigroups_julia-v0.0.1+0/libsemigroups_julia.v0.0.1.x86_64-apple-darwin-julia_version+1.12.0.tar.gz"
+[[libsemigroups_julia]]
+arch = "x86_64"
+git-tree-sha1 = "803583705171d1dda6bf76aa4d7b6ea138e513c0"
+julia_version = "1.13.0"
+os = "macos"
+
+    [[libsemigroups_julia.download]]
+    sha256 = "3d1ef7af4ad7f6657a59c75d6be346ee8011ef8ea3ca732f407edac0e8359f8e"
+    url = "https://github.com/JuliaBinaryWrappers/libsemigroups_julia_jll.jl/releases/download/libsemigroups_julia-v0.0.1+0/libsemigroups_julia.v0.0.1.x86_64-apple-darwin-julia_version+1.13.0.tar.gz"
+[[libsemigroups_julia]]
+arch = "x86_64"
+git-tree-sha1 = "7bd9ff2bc86bf98e212599a76f535f7397cbb631"
+julia_version = "1.14.0"
+os = "macos"
+
+    [[libsemigroups_julia.download]]
+    sha256 = "4b408a1a916d9106f90248d87188a572af3d7f15e19932134e6c8a13d21885cf"
+    url = "https://github.com/JuliaBinaryWrappers/libsemigroups_julia_jll.jl/releases/download/libsemigroups_julia-v0.0.1+0/libsemigroups_julia.v0.0.1.x86_64-apple-darwin-julia_version+1.14.0.tar.gz"
+[[libsemigroups_julia]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "a1d92a897bef3ce29ae51c4a73925311ff2948d8"
+julia_version = "1.10.0"
+libc = "glibc"
+os = "linux"
+
+    [[libsemigroups_julia.download]]
+    sha256 = "e49fb31b7e857f58c7b9927299860feb1bd091ea1ec260704b3b76b07c4a5505"
+    url = "https://github.com/JuliaBinaryWrappers/libsemigroups_julia_jll.jl/releases/download/libsemigroups_julia-v0.0.1+0/libsemigroups_julia.v0.0.1.x86_64-linux-gnu-cxx11-julia_version+1.10.0.tar.gz"
+[[libsemigroups_julia]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "7fddeecae4b0d045aee6b3033a1a862e43bb1416"
+julia_version = "1.11.1"
+libc = "glibc"
+os = "linux"
+
+    [[libsemigroups_julia.download]]
+    sha256 = "7c453c920d6b4891ee25844ef96b9a91af2a036bf1ce073467eb5c47c8e3f6f9"
+    url = "https://github.com/JuliaBinaryWrappers/libsemigroups_julia_jll.jl/releases/download/libsemigroups_julia-v0.0.1+0/libsemigroups_julia.v0.0.1.x86_64-linux-gnu-cxx11-julia_version+1.11.1.tar.gz"
+[[libsemigroups_julia]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "2f0f33ba3d3fbbf2726f15e04a4e82fa1e0daecc"
+julia_version = "1.12.0"
+libc = "glibc"
+os = "linux"
+
+    [[libsemigroups_julia.download]]
+    sha256 = "ad93a93480233ef9ebc75bfad5e7ee255178421b14bed040f88c880316b0f9a0"
+    url = "https://github.com/JuliaBinaryWrappers/libsemigroups_julia_jll.jl/releases/download/libsemigroups_julia-v0.0.1+0/libsemigroups_julia.v0.0.1.x86_64-linux-gnu-cxx11-julia_version+1.12.0.tar.gz"
+[[libsemigroups_julia]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "46706efa3549e1f0190f97db45c16df9387c67e0"
+julia_version = "1.13.0"
+libc = "glibc"
+os = "linux"
+
+    [[libsemigroups_julia.download]]
+    sha256 = "f2d5b2b6167f7ff7eac77b525c63fac34c2e25a17863ba9f56aeca2a1d403614"
+    url = "https://github.com/JuliaBinaryWrappers/libsemigroups_julia_jll.jl/releases/download/libsemigroups_julia-v0.0.1+0/libsemigroups_julia.v0.0.1.x86_64-linux-gnu-cxx11-julia_version+1.13.0.tar.gz"
+[[libsemigroups_julia]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "d3f51158ff9da028d5c113281c551f11a80a850c"
+julia_version = "1.14.0"
+libc = "glibc"
+os = "linux"
+
+    [[libsemigroups_julia.download]]
+    sha256 = "01e32e55470bb18a4a14a0814d9ef766709e1b3de1e8caddecead6e809927c16"
+    url = "https://github.com/JuliaBinaryWrappers/libsemigroups_julia_jll.jl/releases/download/libsemigroups_julia-v0.0.1+0/libsemigroups_julia.v0.0.1.x86_64-linux-gnu-cxx11-julia_version+1.14.0.tar.gz"
+[[libsemigroups_julia]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "1ca93c0c2d1ab9d54d3fd5e9a54e9780cdc2e785"
+julia_version = "1.10.0"
+libc = "musl"
+os = "linux"
+
+    [[libsemigroups_julia.download]]
+    sha256 = "6af9a72a2cf321d8df296d181dfec5529c49e82e934a74c17d2530ac5318e3e7"
+    url = "https://github.com/JuliaBinaryWrappers/libsemigroups_julia_jll.jl/releases/download/libsemigroups_julia-v0.0.1+0/libsemigroups_julia.v0.0.1.x86_64-linux-musl-cxx11-julia_version+1.10.0.tar.gz"
+[[libsemigroups_julia]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "7d047350b80ea73f58a93f4fa37382a84e91086a"
+julia_version = "1.11.1"
+libc = "musl"
+os = "linux"
+
+    [[libsemigroups_julia.download]]
+    sha256 = "391cec9bb8e514a10fc68f09e6b5d42d8373802fc1416a0e96f80ad3ad63765d"
+    url = "https://github.com/JuliaBinaryWrappers/libsemigroups_julia_jll.jl/releases/download/libsemigroups_julia-v0.0.1+0/libsemigroups_julia.v0.0.1.x86_64-linux-musl-cxx11-julia_version+1.11.1.tar.gz"
+[[libsemigroups_julia]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "71307db833b68a91d138c5cb194ed0ddac86db3f"
+julia_version = "1.12.0"
+libc = "musl"
+os = "linux"
+
+    [[libsemigroups_julia.download]]
+    sha256 = "2f33f6a62a0379abcd7c17f8762d8689a2186508671e9b10b1f69b621ba4d9d6"
+    url = "https://github.com/JuliaBinaryWrappers/libsemigroups_julia_jll.jl/releases/download/libsemigroups_julia-v0.0.1+0/libsemigroups_julia.v0.0.1.x86_64-linux-musl-cxx11-julia_version+1.12.0.tar.gz"
+[[libsemigroups_julia]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "8e7f57c3b77c3584ab07b7e7ce209d84e746c2e4"
+julia_version = "1.13.0"
+libc = "musl"
+os = "linux"
+
+    [[libsemigroups_julia.download]]
+    sha256 = "7528f266ed5c3bb6de9954653a40d9dd7873b236ebae1774cfb89537edd9686d"
+    url = "https://github.com/JuliaBinaryWrappers/libsemigroups_julia_jll.jl/releases/download/libsemigroups_julia-v0.0.1+0/libsemigroups_julia.v0.0.1.x86_64-linux-musl-cxx11-julia_version+1.13.0.tar.gz"
+[[libsemigroups_julia]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "8717993a2983e2f9fe9d89145651133f4946100f"
+julia_version = "1.14.0"
+libc = "musl"
+os = "linux"
+
+    [[libsemigroups_julia.download]]
+    sha256 = "ec23f0e4c8694d8ae9a4a183648aa92618fd46a94ed66df11567d0c92a93a10e"
+    url = "https://github.com/JuliaBinaryWrappers/libsemigroups_julia_jll.jl/releases/download/libsemigroups_julia-v0.0.1+0/libsemigroups_julia.v0.0.1.x86_64-linux-musl-cxx11-julia_version+1.14.0.tar.gz"
+[[libsemigroups_julia]]
+arch = "x86_64"
+git-tree-sha1 = "2d63e2009fd02a7ffd9c2011b60ac9897a530c1b"
+julia_version = "1.10.0"
+os = "freebsd"
+
+    [[libsemigroups_julia.download]]
+    sha256 = "b4f9b75853050555fcf7c1b3c0a30f480f3cf7e357920c886ca49494b2e6639c"
+    url = "https://github.com/JuliaBinaryWrappers/libsemigroups_julia_jll.jl/releases/download/libsemigroups_julia-v0.0.1+0/libsemigroups_julia.v0.0.1.x86_64-unknown-freebsd-julia_version+1.10.0.tar.gz"
+[[libsemigroups_julia]]
+arch = "x86_64"
+git-tree-sha1 = "d1297d8e05fc385da5742a316cb4dcdee7b07bd5"
+julia_version = "1.11.1"
+os = "freebsd"
+
+    [[libsemigroups_julia.download]]
+    sha256 = "b694b06b55787678b8635f9702da2381fd17c7f0f1a8dc72663e623bd5433135"
+    url = "https://github.com/JuliaBinaryWrappers/libsemigroups_julia_jll.jl/releases/download/libsemigroups_julia-v0.0.1+0/libsemigroups_julia.v0.0.1.x86_64-unknown-freebsd-julia_version+1.11.1.tar.gz"
+[[libsemigroups_julia]]
+arch = "x86_64"
+git-tree-sha1 = "80319f43c7849a8f45052ecb840202bb930aedb3"
+julia_version = "1.12.0"
+os = "freebsd"
+
+    [[libsemigroups_julia.download]]
+    sha256 = "79b485b7ecf06b799d0baec46ccc1e4ff1fd997520979c1a3bf12c200f128675"
+    url = "https://github.com/JuliaBinaryWrappers/libsemigroups_julia_jll.jl/releases/download/libsemigroups_julia-v0.0.1+0/libsemigroups_julia.v0.0.1.x86_64-unknown-freebsd-julia_version+1.12.0.tar.gz"
+[[libsemigroups_julia]]
+arch = "x86_64"
+git-tree-sha1 = "707a06539e3b6e6aabde592727ae4e0acf728990"
+julia_version = "1.13.0"
+os = "freebsd"
+
+    [[libsemigroups_julia.download]]
+    sha256 = "9ca404ca4478f53954a055168827e7715b4795a7cc57e36ee0d14636c66ac959"
+    url = "https://github.com/JuliaBinaryWrappers/libsemigroups_julia_jll.jl/releases/download/libsemigroups_julia-v0.0.1+0/libsemigroups_julia.v0.0.1.x86_64-unknown-freebsd-julia_version+1.13.0.tar.gz"
+[[libsemigroups_julia]]
+arch = "x86_64"
+git-tree-sha1 = "974439046ba5229ac8a9dfc14c8283a189915a82"
+julia_version = "1.14.0"
+os = "freebsd"
+
+    [[libsemigroups_julia.download]]
+    sha256 = "d9f00f7fbf4883763998b282130c052668aa3fc841b9b9c03cd50f98fa1fbaae"
+    url = "https://github.com/JuliaBinaryWrappers/libsemigroups_julia_jll.jl/releases/download/libsemigroups_julia-v0.0.1+0/libsemigroups_julia.v0.0.1.x86_64-unknown-freebsd-julia_version+1.14.0.tar.gz"
