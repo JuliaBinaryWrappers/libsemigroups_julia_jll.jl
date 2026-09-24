@@ -1,6 +1,6 @@
 name = "libsemigroups_julia_jll"
 uuid = "49785210-2e0e-5fa7-bc86-ac158b29c4ea"
-version = "0.1.1+0"
+version = "0.1.2+0"
 
 [deps]
 JLLWrappers = "692b3bcd-3c85-4b1f-b108-f13ce0eb3210"
@@ -15,4 +15,5 @@ JLLWrappers = "1.7.0"
 julia = "~1.10, ~1.11, ~1.12, ~1.13, ~1.14"
 libcxxwrap_julia_jll = "~0.14.5"
 Libdl = "< 0.0.1, 1"
+libsemigroups_jll = "=3.6.1"
 Artifacts = "< 0.0.1, 1"
